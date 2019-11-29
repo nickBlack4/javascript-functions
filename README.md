@@ -1,4 +1,5 @@
 # javascript_functions
+Helpful javascript functions/scripts 
 
 ## writeFile.js
 
